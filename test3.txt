@@ -1,8 +1,1 @@
- # git 상황보기
- git status
- git branch
-
-
-#
- git checkout -b feat#3 
-Switched to a new branch 'feat#3'
+3
